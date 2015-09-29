@@ -83,7 +83,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"font" 			"CerbeticaBold16"
+		"font" 			"CerbeticaBold17"
 		"fgcolor"		"0 0 0 255"
 		"textAlignment"	"center"	
 	}

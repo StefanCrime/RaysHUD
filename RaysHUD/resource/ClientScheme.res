@@ -24,7 +24,7 @@ Scheme
 		//rayshud colors
 	
 		"Ammo In Clip"							"48 255 48 255"
-		"Ammo In Reserve"						"72 255 255 255"
+		"Ammo In Reserve"						"128 128 128 255"
 		"Ammo In Clip Low"						"255 42 130 255"
 		"Ammo In Reserve Low"					"255 128 28 255"
 		
