@@ -23,7 +23,7 @@ Scheme
 	
 		//rayshud colors
 	
-		"Ammo In Clip"							"48 255 48 255"
+		"Ammo In Clip"							"235 226 202 255"
 		"Ammo In Reserve"						"128 128 128 255"
 		"Ammo In Clip Low"						"255 42 130 255"
 		"Ammo In Reserve Low"					"255 128 28 255"
@@ -58,14 +58,14 @@ Scheme
 		//"Ubercharge Amount"						"48 255 48 255" // disabled temporarily; currently controlled by ammo in clip color
 	
 		"Heal Numbers"							"48 255 48 255"
-		"Damage Numbers"						"72 255 255 255"
+		"Damage Numbers"						"16 192 255 255"
 		
 		//'Last DamageHeal Info' refers to the number that appears above hp
-		"Last DamageHeal Info"					"72 255 255 255"
+		"Last DamageHeal Info"					"16 192 255 255"
 		
 		//Menu/Color scheme colors
-		"Base Color"				"15 255 255 255"
-		"Button Color"				"72 255 255 255"	
+		"Base Color"				"15 136 255 255"
+		"Button Color"				"16 192 255 255"	
 		
 		"Inactive Tab"				"15 100 100 255"	
 		
@@ -186,11 +186,11 @@ Scheme
 		"DisguiseMenuIconRed"	"192 56 63 255"
 		"DisguiseMenuIconBlue"	"92 128 166 255"
 
- 		"MatchmakingDialogTitleColor"			"15 255 255 255"
+ 		"MatchmakingDialogTitleColor"			"15 136 255 255"
  		"MatchmakingMenuItemBackground"			"46 43 42 255"
- 		"MatchmakingMenuItemBackgroundActive"	"15 255 255 255"	
-		"MatchmakingMenuItemTitleColor"			"15 255 255 255"
-		"MatchmakingMenuItemDescriptionColor"	"15 255 255 255"
+ 		"MatchmakingMenuItemBackgroundActive"	"15 136 255 255"	
+		"MatchmakingMenuItemTitleColor"			"15 136 255 255"
+		"MatchmakingMenuItemDescriptionColor"	"15 136 255 255"
 		
 		"HTMLBackground"						"95 92 101 255"
 		
@@ -303,9 +303,9 @@ Scheme
 		Econ.Button.DepressedBgColor						"25 25 25 255"
 		Econ.Button.DepressedFgColor						"TanDark"
 		
-		Econ.Button.PresetDefaultColorFg					"15 255 255 255"
-		Econ.Button.PresetArmedColorFg						"15 255 255 255"
-		Econ.Button.PresetDepressedColorFg					"15 255 255 255"
+		Econ.Button.PresetDefaultColorFg					"15 136 255 255"
+		Econ.Button.PresetArmedColorFg						"15 136 255 255"
+		Econ.Button.PresetDepressedColorFg					"15 136 255 255"
 		
 		Econ.Button.PresetDefaultColorBg					"25 25 25 255"
 		Econ.Button.PresetArmedColorBg						"50 50 50 255"
@@ -3376,7 +3376,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -3385,7 +3385,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -3394,7 +3394,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -3403,7 +3403,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -3415,27 +3415,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "4 1"
 				}
 			}
@@ -3444,27 +3444,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "4 1"
 				}
 			}
@@ -3473,27 +3473,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "4 1"
 				}
 			}
@@ -3595,7 +3595,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 4"
 				}
 			}
@@ -3604,7 +3604,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -3613,7 +3613,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -3622,7 +3622,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -3634,17 +3634,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 0"
 				}
 			}
@@ -3653,17 +3653,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 0"
 				}
 			}
@@ -3672,17 +3672,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 0"
 				}
 			}
@@ -3691,17 +3691,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 0"
 				}
 			}
@@ -4162,27 +4162,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "4 1"
 				}
 			}
@@ -4191,27 +4191,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "4 1"
 				}
 			}
@@ -4220,27 +4220,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "4 1"
 				}
 			}
@@ -4579,7 +4579,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -4588,7 +4588,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -4597,7 +4597,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -4606,7 +4606,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -4618,7 +4618,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -4627,7 +4627,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -4636,7 +4636,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -4645,7 +4645,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "15 255 255 255"
+					"color" "15 136 255 255"
 					"offset" "0 0"
 				}
 			}
