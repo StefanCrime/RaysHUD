@@ -133,17 +133,17 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"BasicDot"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
-		"xpos"			"c-103"
-		"ypos"			"c-100"
-		"wide"			"201"
-		"tall"			"201"
+		"xpos"			"c-101" // sus
+		"ypos"			"c-101" // jos
+		"wide"			"199" //stanga
+		"tall"			"202" // dreapta
 
 		//"font"		"CrosshairsOutline24"
-		"font"			"Crosshairs24"
+		"font"			"Crosshairs18"
 		"labelText"		"3"
 		"textAlignment"	"center"	
 		
@@ -1194,16 +1194,15 @@
 
 	HudDamageIndicator
 	{
-//		"fieldName" "HudDamageIndicator"
-//		"visible" "1"
-//		"enabled" "1"
-//		"MinimumWidth" "10"
-//		"MaximumWidth" "10"		
-//		"StartRadius" "80"
-//		"EndRadius" "80"
-//		"MinimumHeight" "30"
-//		"MaximumHeight" "60"
-//		"MinimumTime" "1" 
+		"fieldName" "HudDamageIndicator"
+		"visible" "1"
+		"enabled" "1"
+		"MinimumWidth" "10"
+		"MaximumWidth" "10"		
+		"StartRadius" "80"
+		"EndRadius" "80"
+		"MinimumHeight" "30"
+		"MinimumTime" "1" 
 	}
 
 	HudCommentary

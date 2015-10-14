@@ -69,15 +69,15 @@ Scheme
 		
 		"Inactive Tab"				"15 100 100 255"	
 		
-		"StatBar1"						"15 255 255 128"
-		"StatBar2"						"15 225 225 128"
-		"StatBar3"						"15 195 195 128"
-		"StatBar4"						"15 165 165 128"
-		"StatBar5"						"15 135 135 128"
-		"StatBar6"						"15 105 105 128"
-		"StatBar7"						"15 85 85 128"
-		"StatBar8"						"15 65 65 128"
-		"StatBar9"						"15 45 45 128"
+		"StatBar1"						"15 136 255 128"
+		"StatBar2"						"0 132 202 128"
+		"StatBar3"						"0 154 206 128"
+		"StatBar4"						"15 136 255 128"
+		"StatBar5"						"0 132 202 128"
+		"StatBar6"						"0 154 206 128"
+		"StatBar7"						"15 136 255 128"
+		"StatBar8"						"0 132 202 128"
+		"StatBar9"						"0 154 206 128"
 		
 		//item backdrop color, refers to background color when mousing over items
 		"ItemPanelBG"					"50 50 50 255"
@@ -85,7 +85,7 @@ Scheme
 		//Rainbow Uber Colors
 		
 			"ColorRed"						"255 0 0 255"
-			"ColorVermillion"						"255 64 0 255"
+			"ColorVermillion"				"255 64 0 255"
 			"ColorOrange"					"255 128 0 255"
 			"ColorYellow"					"255 255 0 255"
 			"ColorLime"						"128 255 0 255"
@@ -6379,53 +6379,3 @@ Scheme
 			"name" "Cerbetica Bold Medic"
 		}	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
