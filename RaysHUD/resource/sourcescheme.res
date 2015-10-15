@@ -13,9 +13,9 @@ Scheme
 		"TransparentBlack"		"0 0 0 128"
 		"Black"				"10 10 10 255" 
 		"Blank"				"0 0 0 0"
-		"RaysPrimary"			"15 75 255 255"
-		"RaysPrimaryLight"		"0 75 255 255"
-		"RaysPrimaryDark"		"21 75 255 255"
+		"RaysPrimary"			"0 84 165 255"
+		"RaysPrimaryLight"		"0 103 199 255"
+		"RaysPrimaryDark"		"0 50 97 255"
 		"RaysBlack"				"15 15 15 255"
 		"RaysBlackTrans"		"15 15 15 190"
 		"RaysButtonHover"		"12 52 85 128"
@@ -39,15 +39,15 @@ Scheme
 	    "TFTextBlack"               "42 39 37 255"
 	    "TFTextDull"                "131 121 104 255"
 
-	    "TFMediumBrown"		"69 64 58 255"
+	    "TFMediumBrown"		"0 84 165 255"
 
-	    "QuickListBGDeselected"		"69 64 58 255"
+	    "QuickListBGDeselected"		"0 84 165 255"
 	    "QuickListBGSelected"               "131 121 104 150"
 	    
 	    "Blank"				"0 0 0 0"
 
 		"ControlBG"			"76 88 68 255"		// background color of controls
-		"ControlDarkBG"		"90 106 80 255"		// darker background color; used for background of scrollbars
+		"ControlDarkBG"		"0 50 97 255"		// darker background color; used for background of scrollbars
 		"WindowBG"			"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
 		"SelectionBG"		"90 84 75 255"		// background color of any selected text or menu item
 		"SelectionBG2"		"69 64 57 255"		// selection background in window w/o focus

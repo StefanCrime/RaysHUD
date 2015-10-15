@@ -1,0 +1,17 @@
+Laptop specs: http://pastebin.com/RFSZs3eL
+Launch options: -full -console -novid -nojoy -h 720 -w 1280
+Autoexec: http://pastebin.com/efc0GJLw
+Config: http://pastebin.com/FB5J9eEB
+Custom: http://pastebin.com/QCt1HAs8
+Demo: http://pastebin.com/JbkFEu6F
+Engie: http://pastebin.com/cd4Wh2tX
+Heavy: http://pastebin.com/5eFFjxFG
+Medic: http://pastebin.com/Z7W057ak
+Pyro: http://pastebin.com/DUMYQU8c
+Reset: http://pastebin.com/SmMCziZ5
+Scout: http://pastebin.com/dwJYteDG
+Sniper: http://pastebin.com/F45K8UEs
+Soldier: http://pastebin.com/9r3mhieL
+Spy: http://pastebin.com/nk5gq2Jy
+
+My tf2 folder: https://drive.google.com/file/d/0B3Su4Ymmq1QfVnlMMVRSem9jLXM/view

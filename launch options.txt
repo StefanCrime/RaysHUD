@@ -1,0 +1,20 @@
+//========================================================
+// Launch Options
+//========================================================
+//FOR ME: -full -console -novid -nojoy -h 720 -w 1280
+
+		FOR YOU: -full -console -novid -nojoy -h X -w Y -dxlevel 81 
+
+		[ WARNING ! ] Remove -dxlevel 81 from launch options, don't let it there, because it will make ALT-TAB make slow and might also crash the game.
+//========================================================
+// INFO
+//========================================================
+Replace X and Y with the Screen Resolution from your PC. Right click on desktop -> Screen resolution -> Resolution (example: 1366x768 will be -h 1366 -w 768) 
+NOTE: The lower the resolution the better the game will run. That's why I'm using 720 x 1280 instead of my recommended windows resolution.
+
+//========================================================
+// Softwares I use for gaming:
+//========================================================
+
+Razer Cortex
+f.lux

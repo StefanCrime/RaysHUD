@@ -2,6 +2,164 @@
 {
 	//crosshairs
 	
+	ThinCross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"ThinCross"
+		"visible"		"1"
+		"enabled"		"1"
+		"zpos"			"2"
+		"xpos"			"c-100"
+		"ypos"			"c-102"
+		"wide"			"202"
+		"tall"			"200"
+
+		"font"		"SymbolOutline24"
+		"font"			"Symbol24"
+		"labelText"		"+"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+	
+	BasicDot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"BasicDot"
+		"visible"		"1"
+		"enabled"		"1"
+		"zpos"			"2"
+
+		"xpos"			"c-101" // sus
+		"ypos"			"c-101" // jos
+		"wide"			"199" //stanga
+		"tall"			"202" // dreapta
+
+		//"font"		"CrosshairsOutline24"
+		"font"			"Crosshairs18"
+		"labelText"		"3"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+	
+	//KnucklesCrosses
+"AmbyXhair"
+{
+    "controlName"               "CExLabel"
+    "fieldName"                 "AmbyXhair"
+    "visible"                   "0"
+    "enabled"                   "0"
+
+    "zpos"                      "100"
+    "xpos"                      "c-25"
+    "ypos"                      "c-25"
+    "wide"                      "50"
+    "tall"                      "50"
+    "font"                      "size:16,outline:on"
+    "labelText"                 "e"
+    "textAlignment"             "center"
+    "fgcolor"                   "255 255 255 255"
+}"gap+notop"
+{
+    "controlName"               "CExLabel"
+    "fieldName"                 "AmbyXhair"
+    "visible"                   "0"
+    "enabled"                   "0"
+
+    "zpos"                      "100"
+    "xpos"                      "c-25"
+    "ypos"                      "c-25"
+    "wide"                      "50"
+    "tall"                      "49"
+    "font"                      "size:24,outline:off"
+    "labelText"                 "q"
+    "textAlignment"             "center"
+    "fgcolor"                   "0 255 0 255"
+}"dot"
+{
+    "controlName"               "CExLabel"
+    "fieldName"                 "AmbyXhair"
+    "visible"                   "0"
+    "enabled"                   "0"
+
+    "zpos"                      "100"
+    "xpos"                      "c-25"
+    "ypos"                      "c-25"
+    "wide"                      "50"
+    "tall"                      "50"
+    "font"                      "size:24,outline:off"
+    "labelText"                 "l"
+    "textAlignment"             "center"
+    "fgcolor"                   "0 255 0 255"
+}"smallcircle"
+{
+    "controlName"               "CExLabel"
+    "fieldName"                 "AmbyXhair"
+    "visible"                   "0"
+    "enabled"                   "0"
+
+    "zpos"                      "100"
+    "xpos"                      "c-25"
+    "ypos"                      "c-25"
+    "wide"                      "50"
+    "tall"                      "49"
+    "font"                      "size:24,outline:off"
+    "labelText"                 "o"
+    "textAlignment"             "center"
+    "fgcolor"                   "0 255 0 255"
+}
+"konraids"
+{
+    "controlName"               "CExLabel"
+    "fieldName"                 "AmbyXhair"
+    "visible"                   "0"
+    "enabled"                   "0"
+
+    "zpos"                      "100"
+    "xpos"                      "c-25"
+    "ypos"                      "c-25"
+    "wide"                      "50"
+    "tall"                      "48"
+    "font"                      "size:24,outline:off"
+    "labelText"                 "Z"
+    "textAlignment"             "center"
+    "fgcolor"                   "0 255 0 255"
+}
+"tiny+"
+{
+    "controlName"               "CExLabel"
+    "fieldName"                 "AmbyXhair"
+    "visible"                   "0"
+    "enabled"                   "0"
+
+    "zpos"                      "100"
+    "xpos"                      "c-27"
+    "ypos"                      "c-25"
+    "wide"                      "53"
+    "tall"                      "51"
+    "font"                      "size:22,outline:on"
+    "labelText"                 "a"
+    "textAlignment"             "center"
+    "fgcolor"                   "0 255 0 255"
+}
+                "CrosshairName"
+        {
+                "controlName"                                   "CExLabel"
+                "fieldName"                                     "CrosshairName"
+                "visible"                                       "0"
+                "enabled"                                       "0"
+                "zpos"                                          "1"
+                "xpos"                                          "c-25"
+                "ypos"                                          "c-25"
+                "wide"                                          "50"
+                "tall"                                          "50"
+                "font"                                          "size:30,outline:off"
+                "labelText"                                     "a"
+                "textAlignment"                                 "center"
+                "fgcolor"                                       "255 255 255 255"
+        }
+		
 	Spookmaster
 	{
 		"controlName"	"CExLabel"
@@ -124,27 +282,6 @@
 		//"font"		"CrosshairsOutline32"
 		"font"			"Crosshairs32"
 		"labelText"		"2"
-		"textAlignment"	"center"	
-		
-		"fgcolor"		"255 255 255 255"
-	}
-	
-	BasicDot
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"BasicDot"
-		"visible"		"1"
-		"enabled"		"1"
-		"zpos"			"2"
-
-		"xpos"			"c-101" // sus
-		"ypos"			"c-101" // jos
-		"wide"			"199" //stanga
-		"tall"			"202" // dreapta
-
-		//"font"		"CrosshairsOutline24"
-		"font"			"Crosshairs18"
-		"labelText"		"3"
 		"textAlignment"	"center"	
 		
 		"fgcolor"		"255 255 255 255"
@@ -313,26 +450,6 @@
 		//"font"			"CrosshairsOutline24"
 		"font"			"Crosshairs24"
 		"labelText"		"h"
-		"textAlignment"	"center"	
-		
-		"fgcolor"		"255 255 255 255"
-	}
-	
-	ThinCross
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"ThinCross"
-		"visible"		"1"
-		"enabled"		"1"
-		"zpos"			"2"
-		"xpos"			"c-100"
-		"ypos"			"c-102"
-		"wide"			"202"
-		"tall"			"200"
-
-		"font"		"SymbolOutline24"
-		"font"			"Symbol24"
-		"labelText"		"+"
 		"textAlignment"	"center"	
 		
 		"fgcolor"		"255 255 255 255"
